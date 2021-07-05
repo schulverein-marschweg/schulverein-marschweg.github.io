@@ -45,9 +45,8 @@
       }
     ],
     "uniqCompNum": 80,
-    "versionPublish": "5.3.5",
+    "versionPublish": "5.3.0",
     "imageResize": true,
-    "screenshot": "screenshot.png",
     "favicon": false,
     "mbrsiteDomain": "fqth5wy5wj",
     "robotsSwitcher": false,
@@ -55,8 +54,7 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false,
-    "publishChangesOnly": true
+    "gdpr": false
   },
   "pages": {
     "index.html": {
